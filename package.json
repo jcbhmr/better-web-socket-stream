@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "name": "@jcbhmr/better-web-socket-stream",
+    "dependencies": {
+        "p-event": "^7.1.0"
+    }
+}
